@@ -52,7 +52,7 @@
 
 | Area | Focus |
 |------|-------|
-| 🤖 AI + Testing | Prompt engineering for test cases, AI test tools (Applitools, Testim, Copilot) |
+| 🤖 AI + Testing | Prompt engineering for test cases, AI Agents AI test tools |
 | 🎭 Playwright (JS) | E2E automation, API mocking, visual regression |
 | 📊 Business Analysis | BDD with Gherkin, stakeholder communication, process mapping |
 
