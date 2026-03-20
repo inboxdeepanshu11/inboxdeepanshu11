@@ -66,7 +66,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=inboxdeepanshu11&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=inboxdeepanshu11&theme=shadow_blue&hide_border=true)<br/>
 
 
