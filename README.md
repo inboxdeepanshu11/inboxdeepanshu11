@@ -11,12 +11,8 @@
 
 
 
-## 🛠️ Tech Stack<br><br>**Automation Frameworks**<br>`Selenium WebDriver` `Playwright`<br><br>**Languages**<br>`Java` `JavaScript`<br><br>**Test Runners & Build Tools**<br>`TestNG` `JUnit` `Maven` `Gradle`<br><br>**CI/CD & DevOps**<br>`Jenkins` `Git` `GitLab`<br><br>**Reporting & Management**<br>`Allure Reports` `Extent Reports` `JIRA`
 
-)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+## 🛠️ Tech Stack<br><br>**Automation Frameworks**<br>`Selenium WebDriver` `Playwright`<br><br>**Languages**<br>`Java` `JavaScript`<br><br>**Test Runners & Build Tools**<br>`TestNG` `JUnit` `Maven` `Gradle` `Mocha` `Jest`<br><br>**CI/CD & DevOps**<br>`Jenkins` `GitHub Actions` `Git` `Docker`<br><br>**Reporting & Management**<br>`Allure Reports` `Extent Reports` `JIRA` `TestRail`<br><br>---<br>
 
 
 ## 🤖 Currently Exploring
