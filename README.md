@@ -9,10 +9,26 @@
 - Bridge the gap between business requirements and test coverage through BA skills
 - Collaborate with devs, PMs, and stakeholders to define acceptance criteria and test strategies
 
+---
 
+## 🛠️ Tech Stack
 
+**Automation Frameworks**
+`Selenium WebDriver` `Playwright`
 
-## 🛠️ Tech Stack<br><br>**Automation Frameworks**<br>`Selenium WebDriver` `Playwright`<br><br>**Languages**<br>`Java` `JavaScript`<br><br>**Test Runners & Build Tools**<br>`TestNG` `JUnit` `Maven` `Gradle` `Mocha` `Jest`<br><br>**CI/CD & DevOps**<br>`Jenkins` `GitHub Actions` `Git` `Docker`<br><br>**Reporting & Management**<br>`Allure Reports` `Extent Reports` `JIRA` `TestRail`<br><br>---<br>
+**Languages**
+`Java` `JavaScript`
+
+**Test Runners & Build Tools**
+`TestNG` `JUnit` `Maven` `Gradle` `Mocha` `Jest`
+
+**CI/CD & DevOps**
+`Jenkins` `GitHub Actions` `Git` `Docker`
+
+**Reporting & Management**
+`Allure Reports` `Extent Reports` `JIRA` `TestRail`
+
+---
 
 
 ## 🤖 Currently Exploring
