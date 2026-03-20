@@ -65,4 +65,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=inboxdeepanshu11&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=inboxdeepanshu11&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inboxdeepanshu11&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+
+
