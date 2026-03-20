@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 **Test Automation Engineer** with 3–5 years of experience building reliable automation frameworks — now exploring the intersection of **AI, modern tooling, and business analysis** to deliver smarter, faster quality engineering.<br><br>---<br><br>—
+🔍 **Test Automation Engineer** building reliable automation frameworks — now exploring the intersection of **AI, modern tooling, and business analysis** to deliver smarter, faster quality engineering.<br><br>---<br><br>
 
 ## 🧪 What I Do
 
