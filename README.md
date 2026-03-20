@@ -20,13 +20,13 @@
 `Java` `JavaScript`
 
 **Test Runners & Build Tools**
-`TestNG` `JUnit` `Maven` `Gradle` `Mocha` `Jest`
+`TestNG` `JUnit` `Maven` `Gradle` 
 
 **CI/CD & DevOps**
-`Jenkins` `GitHub Actions` `Git` `Docker`
+`Jenkins` `GitHub` `Git` `GitLab`
 
 **Reporting & Management**
-`Allure Reports` `Extent Reports` `JIRA` `TestRail`
+`Allure Reports` `Extent Reports` `JIRA` 
 
 ---
 
