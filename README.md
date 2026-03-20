@@ -9,7 +9,7 @@
 - Bridge the gap between business requirements and test coverage through BA skills
 - Collaborate with devs, PMs, and stakeholders to define acceptance criteria and test strategies
 
-—
+
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@ Jenkins GitHub Actions Git Docker
 Reporting & Management
 Allure Reports Extent Reports JIRA TestRail
 
-—
+
 
 ## 🤖 Currently Exploring
 
@@ -36,7 +36,7 @@ Allure Reports Extent Reports JIRA TestRail
 - 🎭 Playwright with JavaScript — modern browser automation, network interception, and component testing
 - 📋 Business Analysis — requirements gathering, user story mapping, and bridging QA with product thinking
 
-—
+
 
 ## 💡 What Drives Me
 
@@ -45,7 +45,7 @@ Allure Reports Extent Reports JIRA TestRail
 - 🤝 Connecting business intent to test coverage — not just automating, but automating the right things
 - 📉 Reducing flakiness and making pipelines trustworthy
 
-—
+
 
 ## 🌱 Learning & Building
 
