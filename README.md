@@ -37,7 +37,7 @@
 - 🎭 Playwright with JavaScript — modern browser automation, network interception, and component testing
 - 📋 Business Analysis — requirements gathering, user story mapping, and bridging QA with product thinking
 
-
+---
 
 ## 💡 What Drives Me
 
@@ -46,7 +46,7 @@
 - 🤝 Connecting business intent to test coverage — not just automating, but automating the right things
 - 📉 Reducing flakiness and making pipelines trustworthy
 
-
+---
 
 ## 🌱 Learning & Building
 
@@ -56,16 +56,19 @@
 | 🎭 Playwright (JS) | E2E automation, API mocking, visual regression |
 | 📊 Business Analysis | BDD with Gherkin, stakeholder communication, process mapping |
 
-
+---
 
 “The best QA engineers don’t just find bugs — they prevent them by understanding the business.”
 
+---
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+---
 
 # 📊 GitHub Stats:
+
 ![](https://nirzak-streak-stats.vercel.app/?user=inboxdeepanshu11&theme=shadow_blue&hide_border=true)<br/>
 
 
